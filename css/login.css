@@ -1,0 +1,87 @@
+
+body{
+
+	background-color: ;
+    /*#e6b800*/
+}
+
+.loginform{
+    
+    width: 400px;
+   
+}
+
+.btn-warning{
+    
+    border-radius: 15px 15px 15px 15px;
+    width: 400px;
+        color: white;
+}
+
+.btn-primary{
+    
+    border-radius: 15px 15px 15px 15px;
+    width: 400px
+        
+}
+
+.btn-danger{
+    
+    border-radius: 15px 15px 15px 15px;
+    width: 400px
+        
+}
+
+#cent{
+    
+    text-align: center;
+}
+
+#cent2{
+    
+    text-align: center;
+    color: white;
+}
+
+.container{
+    
+    width: 450px;
+    margin-top: 100px;
+    border: 0px solid;
+    border-color: darkorange;
+    margin-right: 70px;
+    float: right;
+}
+
+.container2{
+    
+    height: 650px;
+    width: 700px;
+    border-color: darkorange;
+    border: 0px solid;
+    margin-top:;
+    float: left;
+    margin-left:;
+    background-color: #e6b800; 
+    color: black;
+    
+}
+
+.container3{
+    
+    width: 450px;
+    margin-top: 250px;
+    border: 0px solid;
+    border-color: darkorange;
+    margin-right: 70px;
+    float: right;
+}
+
+
+#adjust{
+    
+    margin-top: 300px;
+    text-align: center;
+    color: white;
+   
+}
